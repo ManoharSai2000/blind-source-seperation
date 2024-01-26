@@ -10,3 +10,8 @@ This problem is an extension of the cocktail party problem, which involves multi
 ![image](https://github.com/ManoharSai2000/blind-source-seperation/assets/45100887/a67635c7-0a84-4dd3-809a-d00375dec7f9)
 
 
+# Project
+
+
+
+
