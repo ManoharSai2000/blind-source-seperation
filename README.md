@@ -12,6 +12,7 @@ This problem is an extension of the cocktail party problem, which involves multi
 
 # Project
 
+[Report](https://github.com/ManoharSai2000/blind-source-seperation/blob/main/report.pdf)
 
 
 
